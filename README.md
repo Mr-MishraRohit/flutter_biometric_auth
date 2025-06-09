@@ -57,7 +57,7 @@ lib/
 > _[Insert screenshots here if available]_
 
 ## 📝 Article Link
-Read the full tutorial on Medium: [Add Biometric Authentication in Flutter (Face ID & Fingerprint)](https://medium.com/@your-profile)
+Read the full tutorial on Medium: [Add Biometric Authentication in Flutter (Face ID & Fingerprint)](https://medium.com/@rohitmishra.tech14/add-biometric-authentication-in-flutter-android-ios-d042f9a147f3)
 
 ## 🙌 Contribution
 PRs are welcome! Feel free to fork and submit improvements.
